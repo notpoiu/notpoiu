@@ -1,0 +1,3 @@
+- Hello, I’m @MagedNuggets (AKA Nathan) i named this account just because i wanted to prank my friend with a fake virus that would open the rick roll video and other weird stuff.
+- I’m interested in Minecraft MCP (java)
+- I’m currently learning Java.
