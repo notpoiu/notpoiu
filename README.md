@@ -5,9 +5,7 @@ I also make like to do random projects like the potato website thing: https://ma
 
 If you want an explanation of the name of my profile, it was like 5 months ago,  i wanted to distribute to my friends a fake ransomware that woudnt do anything exept for opening a rick roll video. and the guy i wanted to give the fake ransomware is called, **Maged**. He also liked **Chicken Nuggets**. So i named it **MagedNuggets**.
 
-I have multiple projects going on at the moment, the biggest one being Koursoh Client, a pvp client (like lunar client or badlion client).
-
-Discord: Nathanshinplays#6914
+Discord: Nathanshinplays#2021
 
 E-Mail: mastertofu12345@gmail.com
 
