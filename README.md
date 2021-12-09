@@ -1,14 +1,14 @@
-# Hi! Wellcome to my profile 👋
-Hello i'm @MagedNuggets, or just **Nathan**. I've been programming since I was 8.
-I started with HTML, then Python ,after python i learned C# for a bit, and now Java, (Mostly Java) .
-I also make like to do random projects.
+![Header](./header.png)
 
-If you want an explanation of the name of my profile, it was like 5 months ago,  i wanted to distribute to my friends a fake ransomware that woudnt do anything exept for opening a rick roll video. and the guy i wanted to give the fake ransomware is called, **Maged**. He also liked **Chicken Nuggets**. So i named it **MagedNuggets**.
+<h1 align="center">MagedNuggets (Nathan)</h1>
+<p align="center">professional dumbass</p>
 
-Discord: Nathanshinplays#2021
+<p align="center">You can contact me via Discord at poiu#0822</p>
 
-E-Mail: mastertofu12345@gmail.com
+<br />
 
-![MagedNuggets's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagedNuggets&show_icons=true&theme=vision-friendly-dark)
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=MagedNuggets&hide_title=true&count_private=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagedNuggets&theme=vision-friendly-dark)
+![Footer](./footer.png)
