@@ -1,12 +1,10 @@
 ![Header](./header.svg)
 
-<h1 align="center">notpoiu (Nathan)</h1>
-<p align="center">professional dumbass</p>
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=notpoiu&data=followers,repositories,stars,commits"></p>
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,python,html,css,javascript,json,c#&includeNames=true"></p>
 
-<br />
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=notpoiu&hide_title=true&count_private=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
-</p>
+### Tools i use for programming
+![Eclipse IDE](https://img.shields.io/badge/EclipseIDE-000000.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-000000.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 ![Footer](./footer.svg)
