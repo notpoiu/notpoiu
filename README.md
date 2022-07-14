@@ -3,8 +3,6 @@
 <h1 align="center">notpoiu (Nathan)</h1>
 <p align="center">professional dumbass</p>
 
-<p align="center">You can contact me via Discord at poiu#0822</p>
-
 <br />
 
 <p align="center">
