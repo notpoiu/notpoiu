@@ -1,16 +1,5 @@
-![Header](./header.svg)
-
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=notpoiu&data=followers,repositories,stars,commits&theme=metropolis"></p>
-
-<p align = "center"> <b>Tools i use for programming</b></p>
-
-<div align="center">
-    <img src="https://img.shields.io/badge/Eclipse-000000.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white" alt="Eclipse IDE" />
-    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
-    <img src="https://img.shields.io/badge/VisualStudioCode-000000.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="Visual Studio Code" />
-    <img src="https://img.shields.io/badge/VisualStudio2019-000000.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="Visual Studio 2019" />
-    <img src="https://img.shields.io/badge/Sublime-Text-000000.svg?style=for-the-badge&logo=SublimeText&logoColor=white" alt="Sublime Text" />
-    <img src="https://img.shields.io/badge/JetBrains-000000.svg?style=for-the-badge&logo=JetBrains&logoColor=white" alt="JetBrains" />
+<div align="center" style="text-align: left;">
+    <img src="https://discordsvgcreator.pythonanywhere.com/getUserProfile/1138576117830275204?showID=false" /><br>
+    <h3 style="margin:0;">Hi im upio 👋</h3>
+    <p style="margin:0;">im a 13 year old mostly self taught programmer. I am able to <br>write in multiple languages such as: HTML, CSS, JS, Java, Python, C#, C++, lua, luau</p>
 </div>
-
-![Footer](./footer.svg)
