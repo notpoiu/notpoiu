@@ -4,7 +4,7 @@
 
 ### Hi im upio 👋
 
-im a 14 year old mostly self taught programmer. I am able to write in multiple languages such as: HTML, CSS, JS, Java, Python, C#, C++, lua, luau
+im a 13 year old mostly self taught programmer. I am able to write in multiple languages such as: HTML, CSS, JS, Java, Python, C#, C++, lua, luau
 
 i would greatly appreciate if you star ⭐ any repo you found useful or interesting
 
