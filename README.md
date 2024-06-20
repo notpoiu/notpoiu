@@ -9,4 +9,4 @@ im a 13 year old mostly self taught programmer. I am able to write in multiple l
 i would greatly appreciate if you star ⭐ any repo you found useful or interesting
 
 - [My Website 🌐](https://www.upio.dev)
-- [My Bio 📒](https://e-z.bio/upio)
+- [My Bio 📒](https://www.upio.dev/about)
