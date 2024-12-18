@@ -10,4 +10,3 @@ I'm a 14 year old mostly self taught programmer. I do fullstack sites, some robl
 
 I would greatly appreciate if you star ⭐ any repo you found useful or interesting
 - [My Website 🌐](https://www.upio.dev)
-- [My Bio 📒](https://www.upio.dev/about)
