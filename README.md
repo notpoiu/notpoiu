@@ -6,7 +6,7 @@
 
 ### Hi im upio 👋
 
-I'm a 14 year old mostly self taught programmer. I do fullstack sites, some roblox scripts and other misc projects
+I'm a **14 year old** mostly **self taught programmer**. I do sites, roblox scripts and other misc projects
 
 I would greatly appreciate if you star ⭐ any repo you found useful or interesting
 - [My Website 🌐](https://www.upio.dev)
