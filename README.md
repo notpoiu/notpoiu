@@ -6,7 +6,9 @@
 
 ### Hi im upio 👋
 
-I'm a **15 year old** mostly **self taught programmer**. I do sites, roblox scripts and other misc projects
+I'm a **15 year old** mostly **self taught programmer**.
 
 I would greatly appreciate if you star ⭐ any repo you found useful or interesting
 - [My Website 🌐](https://www.upio.dev)
+- [Cobalt](https://github.com/notpoiu/cobalt)
+- [roblox-executor-mcp](https://github.com/notpoiu/roblox-executor-mcp)
